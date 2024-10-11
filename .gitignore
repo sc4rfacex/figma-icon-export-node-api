@@ -2,6 +2,7 @@
 .idea
 node_modules
 .env
+assets
 
 #figma-export-icons
 icons-config.json
